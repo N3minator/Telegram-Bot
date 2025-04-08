@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf431c57-2a1c-4e57-8c94-28fcb2958f40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Telegram-Bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/admin/clear_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/creator_bot/export_database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/creator_bot/restart_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/funny/echo/chat_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/funny/echo/mute_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/funny/russian_roulette.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/group.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/group_stats_updater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/help_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/rules_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/logging_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/setup_handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/setup_jobqueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/token.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/бэкап.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2vElicahsGbICBVvsTKl7jd8EzI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.echo_chat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prefix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.бэкап.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Виталик/PycharmProjects/Telegram-Bot/main.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Виталик\PycharmProjects\Telegram-Bot\utils" />
+      <recent name="C:\Users\Виталик\PycharmProjects\Telegram-Bot\database" />
+      <recent name="C:\Users\Виталик\PycharmProjects\Telegram-Bot\handlers\funny" />
+      <recent name="C:\Users\Виталик\PycharmProjects\Telegram-Bot\handlers" />
+      <recent name="C:\Users\Виталик\PycharmProjects\Telegram-Bot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Telegram-Bot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf431c57-2a1c-4e57-8c94-28fcb2958f40" name="Changes" comment="" />
+      <created>1743718242941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743718242941</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/handlers/funny/echo/mute_random.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
