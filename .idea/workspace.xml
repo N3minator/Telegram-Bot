@@ -5,33 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf431c57-2a1c-4e57-8c94-28fcb2958f40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Telegram-Bot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/admin/clear_cmd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/creator_bot/export_database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/creator_bot/restart_bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/funny/echo/chat_bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/funny/echo/mute_random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/funny/russian_roulette.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/group.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/group_stats_updater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/help_bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/prefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/rules_bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/status.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/logging_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/setup_handlers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/setup_jobqueue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/token.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/бэкап.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
